@@ -1,5 +1,12 @@
-.odd-elements {
+.odd-elements.font-size {
     background-color: rgb(222, 139, 153);
+    font-size: 24px;
     font-family: Verdana sans-serif;
 }
+
+#element-two {
+    color: blue;
+    font-size: 36px;
+}
+
 
